@@ -1,0 +1,19 @@
+{
+    "network": "ethereum",
+    "chain": "mainnet",
+    "max_gas_price_gwei": 120,
+    "max_priority_fee_gwei": 3,
+    "retry_count": 100,
+    "retry_delay": 0.3,
+    "check_interval": 0.5,
+    "gas_multiplier": 1.3,
+    "timeout": 45,
+    "max_mints_per_wallet": 10,
+    "auto_switch_wallet": true,
+    "enable_gas_optimization": true,
+    "gas_priority_level": "medium",
+    "enable_logging": true,
+    "log_level": "INFO",
+    "notification_email": "",
+    "discord_webhook": ""
+}
